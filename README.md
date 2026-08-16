@@ -7,7 +7,7 @@ DDoS压力测试方法与工具资源整理 | DDoS Stress Testing Methods &amp; 
 
 ## 站点导航
 - 中文站：[ddoszerodawn.top](https://ddoszerodawn.top)
-- 英文站：[ddoszerodawn.xyz]((https://zerodawnstress.cc/))
+- 英文站：[ddoszerodawn.xyz]((https://zerodawnstress.cc/)
 
 ## 指南章节
 - [L4与L7方法对比](docs/l4-vs-l7-methods.md) —— 传输层与应用层测试的本质差异与选择逻辑
