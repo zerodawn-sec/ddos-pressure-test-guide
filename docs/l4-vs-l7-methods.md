@@ -50,4 +50,4 @@ Layer4测试打的是"运输系统"：SYN、UDP、TCP连接这些不区分业务
 2. **忽略PPS只看带宽**：1Gbps小包的PPS可以是1Gbps大包的数十倍，设备瓶颈往往在PPS。
 3. **L7测试不做基线对比**：没有正常流量的响应时间基线，压测数据无法解读。
 
-完整的20种方法实测与参数细节见 [破晓压力测试平台方法库](https://ddoszerodawn.top/all-methods.html)。
+完整的20种方法实测与参数细节见 [破晓压力测试平台方法库](https://zerodawnsec.com/all-methods.html)。

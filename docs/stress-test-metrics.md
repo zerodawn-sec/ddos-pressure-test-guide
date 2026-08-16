@@ -48,4 +48,4 @@ PPS ≈ Gbps × 125,000,000 / 平均包大小(字节)
 - 丢包率开始抬升的拐点
 - 测试方法的包大小分布
 
-需要可配置功率与方法组合的测试环境，可参考 [ddoszerodawn.top](https://ddoszerodawn.top/) 提供的Web测试面板。
+需要可配置功率与方法组合的测试环境，可参考 [zerodawnsec.com](https://zerodawnsec.com/) 提供的Web测试面板。

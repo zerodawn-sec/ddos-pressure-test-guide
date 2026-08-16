@@ -19,4 +19,4 @@ description: 面向安全研究者的DDoS压力测试方法、指标与工具选
 
 压力测试不是"流量越大越好"。不同业务架构的瓶颈位置完全不同：有的死在带宽，有的死在连接数，有的死在应用层处理逻辑。选错方法，测出来的结论毫无参考价值。
 
-本指南配套的完整方法库与测试平台见 [ddoszerodawn.top](https://ddoszerodawn.top/)。
+本指南配套的完整方法库与测试平台见 [zerodawnsec.com](https://zerodawnsec.com/)。
