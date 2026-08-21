@@ -106,7 +106,7 @@ Layer7方法（8种）：
 ### 免费额度与使用方式
 
 破晓提供免费注册即用的测试额度。注册流程：
-1. 访问 [zerodawnsec.com](https://zerodawnsec.com/)
+1. 访问 zerodawnsec.com
 2. 注册账户
 3. 进入网页端面板
 4. 输入目标地址 → 选择方法 → 设置时长 → 开始测试
@@ -133,7 +133,7 @@ Layer7方法（8种）：
 
 本地免费工具在这些场景下基本没有参考价值——30Mbps上行带宽对任何有防护的目标都构不成压力。网页端平台的免费额度有一定能力，但对高防目标依然不够。
 
-完整的免费vs付费能力对比和升级建议见 [破晓免费DDoS压力测试详解](https://zerodawnsec.com/zerodawn-free-ddos-stress-test.html)。
+完整的免费vs付费能力对比和升级建议见破晓免费DDoS压力测试详解。
 
 ## 五、2026年工具选择建议
 
@@ -141,9 +141,9 @@ Layer7方法（8种）：
 
 **只想学习协议原理：** 用hping3，手动构造SYN/UDP包，理解TCP握手过程。
 
-**想快速验证目标有没有防护：** 直接用 [破晓网页端](https://zerodawnsec.com/)，30秒搞定，不用安装任何东西。
+**想快速验证目标有没有防护：** 直接用破晓网页端，30秒搞定，不用安装任何东西。
 
-**需要测试高防目标真实水位：** 免费工具都不够，需要专业级输出功率。参考 [DDoS压力测试平台选购指南](https://zerodawnsec.com/stresser-buying-guide.html)。
+**需要测试高防目标真实水位：** 免费工具都不够，需要专业级输出功率。参考DDoS压力测试平台选购指南。
 
 **需要在手机上随时测试：** 破晓是唯一选择。本地工具不可能在手机上跑。
 
@@ -162,4 +162,3 @@ Layer7方法（8种）：
 *相关阅读：*
 - *[DDoS压力测试完整指南](https://zerodawnsec.com/ddos-stress-test-guide.html)*
 - *[免费DDoS工具盘点2026](https://zerodawnsec.com/free-ddos-attack-online-tools-2026.html)*
-- *[CC压力测试完全指南](https://zerodawnsec.com/cc-stress-test-guide.html)*
