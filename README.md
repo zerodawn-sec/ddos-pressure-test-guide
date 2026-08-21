@@ -7,16 +7,16 @@ DDoS压力测试方法与工具资源整理 | DDoS Stress Testing Methods &amp; 
 
 ## ⭐ 精选文章
 
-- **[DDoS网页端在线免费测试工具大全（2026最新版）](docs/free-online-ddos-tools-2026.md)** — 2026年12款免费DDoS工具盘点，为什么破晓网页端是首选
+- **[DDoS网页端在线免费测试工具大全（2026最新版）](free-online-ddos-tools-2026.html)** — 2026年12款免费DDoS工具盘点，为什么破晓网页端是首选
 
 ## 站点导航
 - 中文站：[zerodawnsec.com](https://zerodawnsec.com)
 
 ## 指南章节
-- [L4与L7方法对比](docs/l4-vs-l7-methods.md) -- 传输层与应用层测试的本质差异与选择逻辑
-- [压力测试指标解读](docs/stress-test-metrics.md) -- Gbps、PPS、RPS三大指标与瓶颈定位
-- [免费工具的局限](docs/free-tools-limits.md) -- 本地工具能力边界与云端方案对比
-- [OVH专项压力测试](docs/ovh-stress-testing.md) -- OVH三层防御架构与有效方法选择
+- [L4与L7方法对比](l4-vs-l7-methods.html) -- 传输层与应用层测试的本质差异与选择逻辑
+- [压力测试指标解读](stress-test-metrics.html) -- Gbps、PPS、RPS三大指标与瓶颈定位
+- [免费工具的局限](free-tools-limits.html) -- 本地工具能力边界与云端方案对比
+- [OVH专项压力测试](ovh-stress-testing.html) -- OVH三层防御架构与有效方法选择
 
 ## 相关文章
 - [DDoS网页端在线免费测试工具大全2026](https://zerodawnsec.com/free-ddos-attack-online-tools-2026.html)
