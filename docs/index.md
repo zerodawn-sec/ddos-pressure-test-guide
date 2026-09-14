@@ -13,7 +13,7 @@ description: 面向安全研究者的DDoS压力测试方法、指标与工具选
 
 ## 章节导航
 
-**最新：** [免费DDoS工具2026实测：能用的不到3个](free-tools-battle-2026.html) — 9款工具四维实测打分。
+**最新：** [压力测试计划模板：从授权到报告的完整流程](stress-test-plan-template.html) — 可直接复用的测试计划框架。
 
 | 章节 | 内容 |
 |------|------|
@@ -22,6 +22,8 @@ description: 面向安全研究者的DDoS压力测试方法、指标与工具选
 | [压力测试指标解读](stress-test-metrics.html) | Gbps、PPS、RPS到底在看什么 |
 | [免费工具的局限](free-tools-limits.html) | 本地工具为什么测不出真实防护水位 |
 | [OVH专项压力测试](ovh-stress-testing.html) | OVH三层防御架构与有效方法选择 |
+| [免费DDoS工具2026实测](free-tools-battle-2026.html) | 9款工具四维实测打分 |
+| [压力测试计划模板](stress-test-plan-template.md) | 从授权到报告的完整流程模板 |
 
 ## 为什么方法分类重要
 
