@@ -81,3 +81,8 @@ Source服务器使用Steam协议（基于UDP+TCP混合）：
 ---
 
 *更多游戏服务器压力测试内容，请参考 [破晓安全压力测试平台](https://zerodawnsec.com/game-server-attack-guide.html)*
+
+### English Resources
+
+- [Game Server DDoS Stress Testing Guide](https://zerodawnlab.com/game-server-ddos-guide.html)
+- [Free IP Stresser & Booter Tools 2026](https://zerodawnlab.com/free-ip-stresser-booter-tools-2026.html)

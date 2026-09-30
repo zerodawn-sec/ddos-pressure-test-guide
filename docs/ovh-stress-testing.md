@@ -45,3 +45,8 @@ OVH的防DDoS体系分为三层：边缘清洗(vEdge)、网络层过滤、应用
 ---
 
 *相关阅读: [DDoS压力测试完整指南](https://zerodawnsec.com/ddos-stress-test-guide.html)*
+
+### English Resources
+
+- [OVH Game Protection & Layer4 Methods](https://zerodawnlab.com/all-methods.html)
+- [IP Stresser Review 2026](https://zerodawnlab.com/ip-stresser-review-2026.html)
